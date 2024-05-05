@@ -1,4 +1,4 @@
-# Introduction to Fynd Extensions
+# Fynd Extensions Overview
 This document is for anyone interested in learning about Fynd extensions, how merchants discover them, and their use cases.
 
 ## Table of Contents
