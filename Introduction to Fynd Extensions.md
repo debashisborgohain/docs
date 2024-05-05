@@ -11,7 +11,7 @@ This document is for anyone interested in learning about Fynd extensions, how me
 ## What are Fynd extensions?
 Fynd extensions offer additional features to the merchant’s website beyond the Fynd Platform's [core offerings](https://platform.fynd.com/features). Merchants can use extensions to improve the seller experience, create unique buying experiences for customers, and grow their businesses.
 ![Figure 1: Fynd Extension Marketplace - Homepage](https://github.com/debashisborgohain/docs/assets/98230826/fd3721a9-0e9f-4185-ba06-c55b1b03ae4a)  
-*Figure 1: Fynd Extension Marketplace - Homepage*
+*Figure 1: Fynd Extension Marketplace - [Homepage](https://extensions.fynd.com/)*
 
 <a id="item-two"></a>
 ## Types of Fynd Extensions
@@ -23,7 +23,7 @@ The Fynd Platform offers two types of extensions- **public** and **private**:
 ## How can merchants discover extensions?
 Merchants can discover and shop public extensions by visiting the [Fynd Extensions Marketplace](https://extensions.fynd.com/). Click the **View All Extensions** button on the Fynd Extensions Marketplace [homepage](https://extensions.fynd.com/) to view the complete list of extensions.
 ![Figure 2: Fynd Extension Marketplace - Extensions Page](https://github.com/debashisborgohain/docs/assets/98230826/8f6fd6f6-b9d6-46ad-b5ee-a44f317cee20)  
-*Figure 2: Fynd Extension Marketplace - Extensions Page*
+*Figure 2: Fynd Extension Marketplace - [Extensions Page](https://extensions.fynd.com/extensions)*
 
 The extension marketplace provides the following options to search for an extension:
 - Use the search bar and enter the extension name to navigate directly to it.
