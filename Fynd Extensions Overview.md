@@ -1,5 +1,5 @@
 # Fynd Extensions Overview
-This document is for anyone interested in learning about Fynd extensions, how merchants discover them, and their use cases.
+This document is for anyone interested in learning about Fynd [extensions](https://extensions.fynd.com/), how merchants discover them, and their use cases.
 
 ## Table of Contents
 - [What are Fynd extensions?](#item-one)
