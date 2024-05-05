@@ -30,7 +30,7 @@ The extension marketplace provides the following options to search for an extens
 - Use the **Categories** drop-down menu or the **Category** filter on the [extensions page](https://extensions.fynd.com/extensions) to find extensions under specific categories. 
 - Use the **Price** filter on the extensions page to view only free or paid extensions.
 
-> ##### Note  
+> #### Note  
 > Before purchasing an extension, ensure to review the pricing details. To do this, click the extension and scroll down to the **Pricing Plan** section. Paid extensions may include a monthly fee, a yearly fee, a one-time fee, or a fee per use.
 
 <a id="item-four"></a>
